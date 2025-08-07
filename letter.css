@@ -1,0 +1,22 @@
+/* Style the level one heading */
+h1 {
+  color: hotpink;
+  border-bottom: 10px dotted purple;
+}
+
+/* Style the level two heading */
+h2 {
+  font-style: italic;
+}
+
+/* Style the contact details list */
+.contact-details {
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 10px;
+}
+
+/* Change link color on hover */
+a:hover {
+  color: green;
+}
